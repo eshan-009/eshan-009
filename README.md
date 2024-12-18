@@ -1,10 +1,10 @@
-Hi, I'm Eshan Sharma 👋
+**Hi, I'm Eshan Sharma 👋**
 
 MERN Stack Developer | Passionate Programmer | Web Enthusiast
 
 Welcome to my GitHub profile! I'm a MERN stack developer with a keen interest in building dynamic and user-friendly web applications. I enjoy solving complex problems and bringing ideas to life through code.
 
-⚙️ Tech Stack
+**⚙️ Tech Stack**
 
 Frontend: React.js, Next.js, HTML, CSS, JavaScript
 
@@ -14,7 +14,7 @@ Database: MongoDB
 
 Other Tools: Git, REST APIs, Tailwind CSS
 
-🚀 What I Do
+**🚀 What I Do**
 
 Develop robust and scalable web applications using the MERN stack.
 
@@ -26,7 +26,7 @@ Work with databases to handle large-scale data efficiently.
 
 Collaborate in teams to deliver high-quality projects.
 
-🔧 Skills in Action
+**🔧 Skills in Action**
 
 Strong problem-solving abilities.
 
