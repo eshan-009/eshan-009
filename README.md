@@ -10,7 +10,7 @@ Frontend: React.js, Next.js, HTML, CSS, JavaScript
 
 Backend: Node.js, Express.js
 
-Database: MongoDB
+Database: MongoDB,PostgreSQL
 
 Other Tools: Git, REST APIs, Tailwind CSS
 
